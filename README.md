@@ -2,6 +2,7 @@
 
 An exploratory data analysis of the Star Wars universe using data pulled from the [SWAPI API](https://swapi.py4e.com/). This project demonstrates end-to-end data pipeline skills: API ingestion, multi-endpoint data merging, cleaning, and visual analysis via Tableau Public.
 
+📊 **[View Live Dashboard →](https://public.tableau.com/app/profile/michael.haldeman/viz/StarWarsDashoard/Dashboard1?publish=yes)**
 ---
 
 ## Project Overview
